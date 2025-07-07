@@ -15,4 +15,4 @@ This repository contains a portfolio of my work as a junior System Analyst, focu
 
 ---
 
-🔗 Contact me: [LinkedIn](www.linkedin.com/in/muhammad-denaz-660073345) | Email: mdenazskom@gmail.com
+🔗 Contact me: www.linkedin.com/in/muhammad-denaz-660073345 | Email: mdenazskom@gmail.com
