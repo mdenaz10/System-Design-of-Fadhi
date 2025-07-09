@@ -4,15 +4,11 @@ This repository contains a portfolio of my work as a junior System Analyst, focu
 
 ##  Project: Forecasting System for Fadhi Coffee
 -  Role: System Analyst
--  Tools: UML, Waterfall Model, MySQL, Laravel, Draw.io, Figma
+-  Tools: UML, Waterfall Model, Draw.io, Figma
 -  Diagrams included:
   - Use case Diagram
   - Activity Diagram
   - Sequence Diagram
   - Class Diagram
-- UI/UX Mockup (Figma)
-- System Design Document (SRS)
-
----
 
 🔗 Contact me: www.linkedin.com/in/muhammad-denaz-660073345 | Email: mdenazskom@gmail.com
